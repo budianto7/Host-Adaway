@@ -3,25 +3,6 @@
 # Hosts ditulis oleh Komunitas Internet Netral
 # Dengan mengunduh BEBASID dan menggunakan aplikasi ini berarti menerima dan setuju untuk terikat dan mematuhi ketentuan yang berada di dalam halaman berikut: https://github.com/bebasid/bebasid/blob/master/RULES.md
 
-# [Matikan fitur SafeSearch Google dan Youtube]
-216.58.211.3 google.com
-216.58.211.3 www.google.com
-216.58.211.3 google.co.id
-216.58.211.3 www.google.co.id
-0.0.0.0 forcesafesearch.google.com
-0.0.0.0 restrict.youtube.com
-
-# [BLOCK INTERNET POSITIF]
-0.0.0.0 cfs.uzone.id
-0.0.0.0 internetpositif.uzone.id
-0.0.0.0 uzone.id
-0.0.0.0 cfs2.uzone.id
-0.0.0.0 u-ad.info
-0.0.0.0 cfs.u-ad.info
-0.0.0.0 cfs2.uadexchange.com
-0.0.0.0 www.internetpositif.uzone.id
-0.0.0.0 www.uzone.id
-
 # [Android localhost]
 127.0.0.1 localhost
 ::1 ip6-localhost
