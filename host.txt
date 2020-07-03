@@ -26,10 +26,6 @@
 127.0.0.1 localhost
 ::1 ip6-localhost
 
-# [dnslify]
-185.235.81.1 doh.dnslify.com
-2a0d:4d00:81::1 doh.dnslify.com
-
 # Mulai hosts bebasid
 
 # [reddit.com]
